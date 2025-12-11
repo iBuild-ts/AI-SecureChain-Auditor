@@ -242,4 +242,52 @@ For support, email support@securechainauditor.com or open an issue on GitHub.
 
 ---
 
+## 🎯 Creator & Contact
+
+**SecureChain Auditor™** is created and maintained by **@lahwealth**
+
+### Support the Creator
+
+**Buy me a coffee with ETH:**
+```
+0xdf49e29b6840d7ba57e4b5acddc770047f67ff13
+```
+[💰 Send ETH](https://etherscan.io/address/0xdf49e29b6840d7ba57e4b5acddc770047f67ff13)
+
+### Follow & Connect
+
+- **Twitter/X:** [@lahwealth](https://x.com/lahwealth)
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01857093015b424e00)
+
+---
+
+## ©️ Copyright & Trademark
+
+**SecureChain Auditor™** © 2025 by **@lahwealth**. All rights reserved.
+
+This project and all its contents, including but not limited to:
+- Source code
+- Documentation
+- Design assets
+- Branding materials
+- Vulnerability detection algorithms
+- Report generation systems
+
+are the exclusive intellectual property of **@lahwealth** and are protected under international copyright and trademark laws.
+
+### License Terms
+
+- **Personal Use:** Permitted for learning and testing purposes
+- **Commercial Use:** Requires explicit written permission from the creator
+- **Redistribution:** Not permitted without written consent
+- **Modification:** Permitted for personal use only
+
+For licensing inquiries or commercial use, please contact:
+- **Upwork:** [https://www.upwork.com/freelancers/~01857093015b424e00](https://www.upwork.com/freelancers/~01857093015b424e00)
+- **Twitter/X:** [@lahwealth](https://x.com/lahwealth)
+
+---
+
 **SecureChain Auditor™** - Securing the blockchain, one contract at a time. 🔐
+
+*Made with ❤️ by [@lahwealth](https://x.com/lahwealth)*

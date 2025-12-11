@@ -401,4 +401,25 @@ You now have a complete, professional smart contract audit platform.
 
 ---
 
+## 🎯 Creator & Support
+
+**SecureChain Auditor™** © 2025 by **[@lahwealth](https://x.com/lahwealth)**. All rights reserved.
+
+### Support the Creator
+
+**Buy me a coffee with ETH:**
+```
+0xdf49e29b6840d7ba57e4b5acddc770047f67ff13
+```
+[💰 Send ETH](https://etherscan.io/address/0xdf49e29b6840d7ba57e4b5acddc770047f67ff13)
+
+### Follow & Connect
+
+- **Twitter/X:** [@lahwealth](https://x.com/lahwealth)
+- **Upwork:** [Hire me on Upwork](https://www.upwork.com/freelancers/~01857093015b424e00)
+
+---
+
+*Made with ❤️ by [@lahwealth](https://x.com/lahwealth)*
+
 **Next:** Open [QUICKSTART.md](QUICKSTART.md) and get started in 5 minutes!
